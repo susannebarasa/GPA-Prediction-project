@@ -4,7 +4,7 @@ Predicting student GPA using machine learning models in Python.
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 This project uses a machine learning regression approach to predict students’ **Grade Point Average (GPA)**.  
 The analysis and modeling are contained in a single Jupyter Notebook: `gpa‑prediction.ipynb`. :contentReference[oaicite:1]{index=1}
@@ -13,7 +13,7 @@ The goal is to explore relationships between academic/behavioural features and G
 
 ---
 
-## 📋 Content of This Repository
+##  Content of This Repository
 
 GPA‑Prediction‑project/
 ├── gpa‑prediction.ipynb # Main Jupyter Notebook
@@ -23,7 +23,7 @@ GPA‑Prediction‑project/
 
 ---
 
-## 🧩 Notebook Summary
+##  Notebook Summary
 
 The notebook includes:
 
@@ -45,17 +45,17 @@ The notebook includes:
 
 ---
 
-## 📊 Results
+##  Results
 
 | Model | R² Score | RMSE |
 |-------|----------|------|
 | *Random Forest-baseline* | *0.99* | *1.39* |
-| *Random Forest *|*0.986* | *1.68* | 
-|*XGBoost *|*0.996*|*0.93*|
+| *Random Forest*|*0.986* | *1.68* | 
+|*XGBoost*|*0.996*|*0.93*|
 
 ---
 
-## 🧾 Conclusion
+## Conclusion
 
 This project demonstrates how machine learning regression techniques can be applied to predict student GPA using academic and behavioural data. Through exploratory data analysis, preprocessing, and model evaluation, meaningful patterns influencing academic performance were identified.
 
