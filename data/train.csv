@@ -1,0 +1,341 @@
+ID,name,gender,ethnicity,religion,state_of_origin,age,hobby,school_type,parental_education_level,extracurricular_activity,learning_disability,school_location,tutoring_mentoring_program,parental_involvement_level,bullying_experience,study_time,attendance_percentage,self_motivation_level,study_environment_rating,stress_level,parental_support_rating,note_taking_habits,number_of_extracurricular_activities_participated,number_of_leadership_roles_held,teacher_quality_rating,number_of_school_resources_available,peer_interaction_level,exam_maths,exam_english,exam_social_science,gpa
+ca9f1fce,Ibrahim Musa, Male, Hausa, Islam, Kano,17, Playing basketball, Government, Secondary, No, No, Suburban, Yes, Low, Yes,6,80,6,3,8,2,3,1,1,0,3, Low,72,82,45,76.7
+a39097c3,Chiamaka Okonkwo,Female,Igbo,Christianity,Enugu,18,Dancing,Public,Tertiary,Yes,No,Urban,Yes,Medium,Yes,4,75,4,2,8,3,3,1,1,0,1,Low,65,68,72,68.3
+397dabc0,Idris Ahmed,Male,Fulani,Islam,Kano,18,Playing football,Private,Tertiary,Yes,No,Urban,Yes,Medium,No,5,65,4,2,9,2,2,0,0,0,1,Low,45,55,48,49.3
+12511258,Ibrahim Suleiman,Male,Hausa,Islam,Kano,16,Reading books,Public,Secondary,Yes,Yes,Suburban,Yes,Medium,Yes,4,68,3,2,7,2,3,1,0,0,1,Low,59,45,68,63.3
+62ecb678,Yusufu Aliyu,Male,Fulani,Islam,Kano,16,Playing football,Private,Secondary,Yes,No,Urban,Yes,Low,Yes,4,58,3,2,7,2,3,1,1,0,1,Low,52,45,58,55
+f67a1d3d,Oluwaseun Adeyemi,Male,Yoruba,Christianity,Oyo,15,Playing football,Public,Secondary,No,No,Suburban,No,High,Yes,7,80,7,4,6,3,4,1,0,0,2,Medium,70,45,75,72.3
+1154bd43,Amina Bello,F,Hausa,Islam,Kano,16,Dancing,Public,Secondary,No,No,Urban,Yes,Low,Yes,60,78,6,4,7,2,3,1,1,0,3,Low,70,45,72,72.7
+ffc8a5c4,Mohammed Ali,Male,Hausa,Islam,Kano,-2,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,58,3,2,7,2,3,1,0,0,1,Low,52,45,58,55
+4b4d1828,Musa Adeyemi,Male,Yoruba,Christianity,Ogun,15,Playing basketball,Public,Secondary,No,No,Suburban,No,Low,No,3,40,2,1,8,1,2,0,0,0,1,Low,30,4,35,34.3
+5795c3ae,Hassan Ahmed,male,Fulani,Islam,Kano,16,Playing basketball,Private,Secondary,Yes,No,Urban,Yes,Low,No,4,62,4,2,8,2,2,1,0,0,1,Low,48,54,45,47.7
+c25c0dc2,Olumide Ajayi,Male,Yoruba,Christianity,Lagos,16,Playing football,Public,Secondary,Yes,Yes,Urban,Yes,Medium,Yes,4,70,4,2,8,3,3,1,1,0,1,Low,58,54,65,61
+ee712996,Amaka Okonkwo,Female,Igbo,Christianity,Enugu,16,Dancing,Public,Secondary,Yes,No,Suburban,No,Medium,Yes,3,55,3,1,7,2,2,0,0,0,1,Low,48,50,55,51
+f3f0f40c,Abdul Kareem,Male,Hausa,Islam,Kano,15,Playing football,Private,Secondary,Yes,No,Suburban,Yes,Low,No,3,45,3,1,8,1,2,0,0,0,1,Low,35,38,42,38.3
+96db530b,Nnamdi Adeoluwa,Male,Yoruba,Christianity,Lagos,18,Playing basketball,Private,Tertiary,Yes,Yes,Urban,Yes,High,Yes,6,65,4,2,8,3,4,2,0,0,1,High,58,60,65,61
+60feae66,Umaru Hassan,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,45,2,1,6,1,2,0,0,0,1,Low,38,40,45,41
+f1b3317e,Umar Sani,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,58,3,2,7,2,3,1,0,0,1,Low,52,55,58,55
+82be284b,Aisha Suleiman,Female,Hausa,Islam,Kano,16,Dancing,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,58,3,2,7,2,3,1,0,0,1,Low,52,55,58,55
+29f69736,Yakubu Ibrahim,Male,Fulani,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,62,3,2,7,2,3,1,0,0,1,Low,55,58,62,58.3
+49713c4f,Chinwendu Okoro,Female,Igbo,Christianity,Enugu,18,Singing,Public,Tertiary,Yes,Yes,Urban,Yes,High,Yes,5,80,5,2,9,3,4,2,2,0,1,High,72,75,78,75
+3cec1e8c,Chinweike Okoro,Female,Igbo,Christianity,Enugu,16,Painting,Public,Secondary,Yes,No,Suburban,No,Medium,Yes,3,55,3,1,7,2,2,0,0,0,1,Low,48,50,55,51
+91e0bf00,Umaru Hassan,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,45,2,1,6,1,2,1,0,0,1,Low,38,42,45,41
+7bc83083,Chidera Okafor,Female,Igbo,Christianity,Enugu,18,Singing,Public,Tertiary,Yes,Yes,Urban,Yes,High,Yes,5,80,5,2,9,3,4,2,2,0,1,High,72,75,78,75
+39bc95ea,Umar Sani,Male,Fulani,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,58,3,2,7,2,3,1,0,0,1,Low,52,55,45,55
+71c2f038,Fatima Suleiman,Female,Hausa,Islam,Kano,16,Dancing,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,58,3,2,7,2,3,1,0,0,1,Low,52,55,58,55
+a6c7921c,Chiamaka Nwosu,Female,Igbo,Christianity,Enugu,17,Dancing,Public,Secondary,No,No,Rural,No,Low,Yes,3,50,3,1,7,2,2,0,0,0,1,Low,40,45,50,45
+c6eb9d19,Chiamaka Okonkwo,Female,Igbo,Christianity,Enugu,18,Dancing,Public,Tertiary,Yes,No,Urban,Yes,Medium,Yes,4,75,4,2,8,3,3,1,1,0,1,Low,65,68,72,68.3
+5db7bc0b,Halima Bello,Female,Hausa,Islam,Kano,16,Singing,Public,Tertiary,No,No,Urban,Yes,Low,No,3,32,2,1,9,1,2,0,0,0,1,Low,28,30,32,30
+61c44d48,Uzoamaka Okoli,Female,Igbo,Christianity,Enugu,17,Painting,Public,Tertiary,Yes,No,Urban,Yes,Medium,Yes,4,75,4,2,8,3,3,1,1,0,1,Low,65,68,72,68.3
+3ba75099,Chioma Okonkwo,Female,Igbo,Christianity,Enugu,17,Dancing,Public,Secondary,No,No,Rural,No,Low,Yes,3,50,3,1,7,2,2,0,0,0,1,Low,40,45,50,45
+9f65e7ab,Amara Okonkwo,Female,Igbo,Christianity,Enugu,16,Dancing,Public,Secondary,Yes,No,Suburban,No,Medium,Yes,3,55,3,1,7,2,2,0,0,0,1,Low,48,50,55,51
+3f43b8e8,Chidimma Okonkwo,Female,Igbo,Christianity,Enugu,18,Dancing,Public,Tertiary,Yes,No,Urban,Yes,High,Yes,5,80,5,2,9,3,4,2,2,0,1,High,72,75,78,75
+b5c66874,Chinyere Okorie,Female,Igbo,Christianity,Enugu,16,Dancing,Public,Secondary,Yes,No,Suburban,No,Medium,Yes,3,55,3,1,7,2,2,0,0,0,1,Low,48,50,55,51
+756e12e8,Chidinma Nwosu,Female,Igbo,Christianity,Enugu,17,Singing,Public,Tertiary,Yes,Yes,Urban,Yes,High,Yes,5,80,5,2,9,3,4,2,2,0,1,High,72,75,78,75
+d3151015,Umaru Sani,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,45,2,1,6,1,2,0,0,0,1,Low,38,40,45,41
+8152af47,Fatima Buhari,Female,Hausa,Islam,Kano,17,Singing,Public,Tertiary,Yes,Yes,Urban,Yes,Medium,Yes,5,55,3,1,7,2,3,1,0,0,1,Low,45,50,55,50
+32b207ad,Chinwendu Okoro,Female,Igbo,Christianity,Enugu,18,Singing,Public,Tertiary,Yes,Yes,Urban,Yes,High,Yes,5,80,5,2,9,3,4,2,2,0,1,High,72,75,78,75
+72f59ca0,Amaka Onyeka,Female,Igbo,Christianity,Enugu,15,Dancing,Public,Secondary,Yes,No,Suburban,No,Medium,Yes,3,55,3,1,7,2,2,0,0,0,1,Low,48,50,55,51
+d580951b,Sani Ahmed,Male,Fulani,Islam,Kano,17,Playing football,Public,Secondary,Yes,No,Suburban,Yes,Medium,Yes,4,50,3,1,7,2,3,1,0,0,1,Low,38,42,50,43.3
+b4a5b666,Chinwe Onyeka,Female,Igbo,Christianity,Enugu,16,Singing,Public,Tertiary,Yes,Yes,Urban,Yes,High,Yes,5,78,4,2,9,3,4,2,2,0,1,High,70,75,78,74.3
+e0532294,Abdullahi Bello,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,45,2,1,6,1,2,0,0,0,1,Low,38,40,45,41
+723fbf3f,Chinelo Eze,Female,Igbo,Christianity,Enugu,16,Painting,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,62,3,2,7,2,3,1,0,0,1,Low,55,58,62,58.3
+153c209b,Uchechi Onyeka,Female,Igbo,Christianity,Enugu,17,Painting,Public,Secondary,Yes,No,Urban,Yes,Low,Yes,3,38,2,1,8,1,2,0,0,0,1,Low,28,32,35,31.7
+4397c762,Abubakar Hassan,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Medium,Yes,4,68,3,2,7,2,3,1,0,0,1,Low,55,58,63,58.7
+2cc99a02,Umaru Hassan,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,45,2,1,6,1,2,0,0,0,1,Low,38,40,45,41
+d2217193,Yusufu Aliyu,Male,Fulani,Islam,Kano,16,Playing football,Private,Secondary,Yes,No,Urban,Yes,Low,Yes,4,58,3,2,7,2,3,1,1,0,1,Low,52,55,45,55
+b400b132,Yakubu Ibrahim,Male,Fulani,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,62,3,2,7,2,3,1,0,0,1,Low,55,58,62,58.3
+17ea209e,Adebayo Aliyu, Male, Yoruba, Christianity, Oyo,17, Playing video games, Government, Secondary, Yes, No, Suburban, Yes, Low, Yes,6,75,6,2,7,2,3,1,1,0,3, Low,67,77,72,72.7
+10173adc,Abdul Suleiman,Male,Fulani,Islam,Kano,16,Playing football,Public,Secondary,No,No,Suburban,Yes,Low,No,3,45,3,1,9,1,2,0,0,0,1,Low,32,35,45,37.3
+ad72015d,Ibrahim Garba, Male, Hausa, Islam, Kano,16, Playing football, Public, Secondary, No, No, Urban, Yes, Medium, No,5,90,7,4,6,4,3,2,1,3,5, High,85,78,92,87.3
+e7b155f5,Chinyere Okonkwo,Female,Igbo,Christianity,Enugu,16,Singing,Public,Secondary,Yes,No,Suburban,No,Medium,Yes,3,55,3,1,7,2,2,0,0,0,1,Low,48,50,55,51
+304ab7d5,Umaru Sani,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,45,2,1,6,1,2,0,0,0,1,Low,38,40,45,41
+9270e23a,Fatima Ibrahim,Female,Hausa,Islam,Kano,17,Singing,Public,Tertiary,Yes,Yes,Suburban,Yes,Medium,Yes,5,58,3,2,7,2,3,1,0,0,1,Low,48,50,55,51
+383d9b54,Yusuf Ibrahim,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,58,3,2,7,2,3,1,0,0,1,Low,52,55,58,55
+5a0f7475,Amina Ali,Female,Hausa,Islam,Kano,18,Singing,Public,Tertiary,Yes,Yes,Urban,Yes,High,Yes,5,78,4,2,8,3,4,2,1,0,1,High,70,75,78,74.3
+75d01c89,Chinwe Okoro,Female,Igbo,Christianity,Enugu,16,Painting,Public,Secondary,Yes,Yes,Urban,Yes,Medium,Yes,4,68,3,2,7,2,3,1,0,0,1,Low,60,62,67,63
+14ff4f12,Chidimma Eze,Female,Igbo,Christianity,Enugu,17,Dancing,Public,Secondary,Yes,No,Suburban,Yes,Medium,Yes,4,67,3,2,7,2,3,1,0,0,1,Low,56,60,65,60.3
+c5283af3,Chidinma Okonkwo,Female,Igbo,Christianity,Enugu,16,Dancing,Public,Secondary,Yes,No,Suburban,No,Medium,Yes,3,55,3,1,7,2,2,0,0,0,1,Low,48,50,55,51
+e9c37989,Ibrahim Musa, Male, Hausa, Islam, Kano,17, Playing basketball, Government, Secondary, No, No, Suburban, Yes, Low, Yes,6,80,6,3,8,2,3,1,1,0,3, Low,72,82,76,76.7
+9b4ebb8e,Mohammed Ali,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,58,3,2,7,2,3,1,0,0,1,Low,52,55,58,55
+e6a48f8a,Fatimah Aliyu, Female, Hausa, Islam, Kaduna,18, Painting, Public, Tertiary, Yes, Yes, Rural, No, High, Yes,7,92,8,4,7,3,5,4,2,1,4, High,88,94,89,90
+d744e03e,Abubakar Suleiman,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,48,2,1,6,1,2,0,0,0,1,Low,41,45,48,44.7
+09e9d9ee,Abubakar Suleiman,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,48,2,1,6,1,2,0,0,0,1,Low,41,45,48,44.7
+603cd731,Bola Adekunle,Female,Yoruba,Christianity,Ogun,17,Painting,Public,Tertiary,Yes,Yes,Urban,Yes,Low,Yes,4,55,3,2,7,2,3,1,0,0,1,Low,45,48,50,47.7
+c52da966,Chioma Okonkwo,Female,Igbo,Christianity,Enugu,17,Dancing,Public,Secondary,No,No,Rural,No,Low,Yes,3,50,3,1,7,2,2,0,0,0,1,Low,40,45,50,45
+d250d91f,Fatima Udeh,Female,Igbo,Christianity,Enugu,0,Singing,Public,Tertiary,Yes,No,Urban,Yes,High,Yes,6,80,5,2,9,4,4,2,2,0,1,High,72,75,80,75.7
+e925f13c,Umaru Sani,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,58,3,2,7,2,3,1,0,0,1,Low,52,55,58,55
+37d7b248,Abubakar Mohammed,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,45,2,1,6,1,2,0,0,0,1,Low,38,40,45,41
+08e52709,Sani Bello,Male,Hausa,Islam,Kano,16,Playing football,Private,Secondary,Yes,No,Rural,No,Low,Yes,3,52,2,1,6,1,2,0,0,0,1,Low,44,48,52,48
+d3b248f1,Yusuf Ibrahim,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,58,3,2,7,2,3,1,0,0,1,Low,52,55,58,55
+a6b246a3,Jumoke Adeoluwa,Female,Yoruba,Christianity,Lagos,18,Singing,Public,Secondary,No,No,Suburban,Yes,Medium,Yes,5,45,3,1,7,2,3,1,0,0,1,Low,32,35,45,37.3
+e40001b8,Chika Adekunle,Female,Yoruba,Christianity,Ogun,15,Singing,Public,Secondary,Yes,No,Suburban,Yes,High,Yes,5,42,3,1,6,3,3,2,0,0,1,Medium,35,38,42,38.3
+ff9fce51,Bukola Onyeka,Female,Igbo,Christianity,Enugu,18,Dancing,Public,Secondary,Yes,No,Urban,Yes,Medium,Yes,5,48,3,1,7,2,3,1,0,0,1,Low,35,42,48,41.7
+853a48c2,Peter Adams, Male, Hausa, Islam, Kano,17, Playing basketball, Government, Secondary, No, No, Suburban, Yes, Low, Yes,6,80,6,3,8,2,3,1,1,0,3, Low,72,82,76,76.7
+c9a19015,Ibrahim Abdullah,Male,Hausa,Islam,Kano,15,Coding,Private,Secondary,Yes,No,Suburban,Yes,High,No,4,92,9,5,4,4,4,3,1,1,4,High,85,88,86,86.3
+57fe5b0f,Musa Bello,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,45,2,1,6,1,2,0,0,0,1,Low,38,40,45,41
+a6ff203e,Chinwe Okoro,Female,Igbo,Christianity,Enugu,16,Painting,Public,Secondary,Yes,Yes,Urban,Yes,Medium,Yes,4,68,3,2,7,2,3,1,0,0,1,Low,60,62,67,63
+1a2f351e,Ngozi Aliyu, Female, Yoruba, Christianity, Osun,18, Playing the piano, Public, Tertiary, Yes, Yes, Rural, No, High, Yes,7,92,8,4,7,3,5,4,2,1,4, High,88,94,89,90
+45ea92cc,Chioma Okonkwo,Female,Igbo,Christianity,Enugu,17,Dancing,Public,Secondary,No,No,Rural,No,Low,Yes,3,50,3,1,7,2,2,0,0,0,1,Low,40,45,50,45
+0fdd6001,Nkechi Ude,Female,Igbo,Christianity,Enugu,15,Reading books,Public,Secondary,Yes,No,Rural,No,Medium,No,3,50,3,1,7,2,2,0,0,0,1,Low,42,45,50,45
+065373b1,Olumide Ajayi,Male,Yoruba,Christianity,Lagos,16,Playing football,Public,Secondary,Yes,Yes,Urban,Yes,Medium,Yes,4,70,4,2,8,3,3,1,1,0,1,Low,58,60,65,61
+0b022ca6,Chinwendu Okoro,Female,Igbo,Christianity,Enugu,18,Singing,Public,Tertiary,Yes,Yes,Urban,Yes,High,Yes,5,80,5,2,9,3,4,2,2,0,1,High,72,75,78,75
+eeccbeeb,Chidinma Nwosu,Female,Igbo,Christianity,Enugu,17,Singing,Public,Tertiary,Yes,Yes,Urban,Yes,High,Yes,5,80,5,2,9,3,4,2,2,0,1,High,72,75,78,75
+f229b6e4,Chiamaka Okonkwo,Female,Igbo,Christianity,Enugu,18,Dancing,Public,Tertiary,Yes,No,Urban,Yes,Medium,Yes,4,75,4,2,8,3,3,1,1,0,1,Low,65,68,72,68.3
+904d2ebf,Aisha Ibrahim,Female,Hausa,Islam,Kaduna,16,Drawing,Public,Secondary,Yes,No,Suburban,No,Medium,Yes,5,90,7,4,5,3,4,2,1,0,3,Medium,80,78,82,80
+7bb3c8fa,Sani Bello,Male,Hausa,Islam,Kano,16,Playing football,Private,Secondary,Yes,No,Rural,No,Low,Yes,3,52,2,1,6,1,2,0,0,0,1,Low,44,48,52,48
+5012fea9,Funmilayo Adewale,Female,Yoruba,Christianity,Lagos,15,Singing,Public,Secondary,Yes,No,Urban,Yes,Low,Yes,3,45,3,1,8,1,2,0,0,0,1,Low,30,38,35,34.3
+625bc40f,Funmilayo Adewale,Female,Yoruba,Christianity,Lagos,15,Singing,Public,Secondary,Yes,No,Urban,Yes,Low,Yes,3,45,3,1,8,1,2,0,0,0,1,Low,30,38,35,34.3
+941151bb,Bimpe Adeoluwa,Female,Yoruba,Christianity,Lagos,15,Singing,Public,Secondary,Yes,No,Suburban,Yes,High,Yes,6,68,4,2,7,3,3,1,0,0,1,Medium,50,55,50,51.7
+faf54a89,Chukwuma Nwoke, Male, Igbo, Christianity, Abia,17, Playing the guitar, Government, Secondary, Yes, No, Suburban, Yes, Low, Yes,6,75,6,2,7,2,3,1,1,0,3, Low,67,77,45,72.7
+40aa619d,Chinasa Ude,Female,Igbo,Christianity,Enugu,16,Reading books,Public,Tertiary,Yes,No,Urban,Yes,Medium,Yes,4,75,4,2,8,3,3,1,1,0,1,Low,65,68,72,68.3
+b6872a2b,Musa Bello,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,99,45,2,1,6,1,2,0,0,0,1,Low,38,40,45,41
+e527abf9,Yusufu Aliyu,Male,Fulani,Islam,Kano,16,Playing football,Private,Secondary,Yes,No,Urban,Yes,Low,Yes,4,58,3,2,7,2,3,1,1,0,1,Low,52,55,58,55
+c74d46fc,Yusuf Ibrahim,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,58,3,2,7,2,3,1,0,0,1,Low,52,55,58,55
+3c0f3e7f,Hassan Abdullahi,Male,Hausa,Islam,Kano,18,Playing football,Public,Tertiary,Yes,Yes,Urban,Yes,Medium,No,5,80,5,2,9,4,4,2,2,0,1,High,72,75,80,75.7
+b3ff0843,Chukwuma Okeke, Male, Igbo, Christianity, Abia,17, Playing the guitar, Government, Secondary, Yes, No, Suburban, Yes, Low, Yes,6,75,6,2,7,2,3,1,1,0,3, Low,67,77,72,72.7
+379b064c,Chinwendu Okoro,Female,Igbo,Christianity,Enugu,18,Singing,Public,Tertiary,Yes,Yes,Urban,Yes,High,Yes,5,80,5,2,9,3,4,2,2,0,1,High,72,75,78,75
+54ff6887,Fatima Suleiman,Female,Hausa,Islam,Kano,17,Singing,Public,Tertiary,Yes,Yes,Urban,Yes,Medium,Yes,5,55,3,1,8,2,3,1,0,0,1,Low,45,50,55,50
+71300f4d,Yusuf Ibrahim,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,58,3,2,7,2,3,1,0,0,1,Low,52,55,58,55
+84945ace,Muhammadu Sani,Male,Fulani,Islam,Kano,16,Playing football,Public,Secondary,No,No,Suburban,Yes,Low,No,3,60,3,2,8,1,2,0,0,0,1,Low,52,55,60,55.7
+3ce7818c,Chinasa Ude,Female,Igbo,Christianity,Enugu,16,Reading books,Public,Tertiary,Yes,No,Urban,Yes,Medium,Yes,4,75,4,2,8,3,3,1,1,0,1,Low,65,68,72,68.3
+79e48e0b,Usman Ibrahim,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,58,3,2,7,2,3,1,0,0,1,Low,52,55,58,55
+4f8355be,Chinweike Okoro,Female,Igbo,Christianity,Enugu,16,Painting,Public,Secondary,Yes,No,Suburban,No,Medium,Yes,3,55,3,1,7,2,2,0,0,0,1,Low,48,50,55,51
+538d1f4e,Chidinma Onyeka,Female,Igbo,Christianity,Enugu,17,Dancing,Public,Secondary,Yes,Yes,Urban,Yes,Low,Yes,4,58,3,2,7,2,3,1,0,0,1,Low,45,50,58,51
+eb25f334,Abdullahi Suleiman,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,45,2,1,6,1,2,0,0,0,1,Low,38,40,45,41
+7f87bbad,Ibrahim Yahaya,Male,Fulani,Islam,Kano,16,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,High,Yes,5,65,4,2,9,3,4,2,0,0,1,High,58,60,65,61
+5fdd0490,Yusufu Aliyu,Male,Fulani,Islam,Kano,16,Playing football,Private,Secondary,Yes,No,Urban,Yes,Low,Yes,4,58,3,2,7,2,3,1,1,0,1,Low,52,55,58,55
+8bcc243e,Chidinma Nwosu,Female,Igbo,Christianity,Enugu,17,Singing,Public,Tertiary,Yes,Yes,Urban,Yes,High,Yes,5,80,5,2,9,3,4,2,2,0,1,High,72,75,78,75
+b3b3dc6f,Chiamaka Okonkwo,Female,Igbo,Christianity,Enugu,18,Dancing,Public,Tertiary,Yes,No,Urban,Yes,Medium,Yes,4,75,4,2,8,3,3,1,1,0,1,Low,65,68,72,68.3
+1d66ec7e,Chinweike Okonkwo,Female,Igbo,Christianity,Enugu,16,Painting,Public,Secondary,Yes,No,Suburban,No,Medium,Yes,3,55,3,1,7,2,2,0,0,0,1,Low,48,50,55,51
+5bb2a2a0,Blessing Afolabi, Female, Yoruba, Christianity, Osun,18, Playing the piano, Public, Tertiary, Yes, Yes, Rural, No, High, Yes,7,92,8,4,7,3,5,4,2,1,4, High,88,94,89,90
+52dec036,Chidiebere Okonkwo,Female,Igbo,Christianity,Enugu,16,Dancing,Public,Secondary,Yes,No,Suburban,No,Medium,Yes,3,55,3,1,7,2,2,0,0,0,1,Low,48,50,4,51
+1fc31d39,Aishatu Garba, Female, Hausa, Islam, Kaduna,15, Reading books, Private, Tertiary, Yes, No, Suburban, No, High, Yes,4,95,9,5,4,4,4,2,3,1,4, Medium,92,88,85,88.3
+84316df8,Nkechi Okonkwo,Female,Igbo,Christianity,Enugu,18,Painting,Public,Tertiary,Yes,Yes,Urban,Yes,High,Yes,5,80,5,2,9,3,4,2,2,0,1,High,72,75,78,75
+21efa455,Abdullahi Suleiman,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,45,2,1,6,1,2,0,0,0,1,Low,38,40,45,41
+02e871c6,Fatima Mohammed,Female,Hausa,Islam,Kano,15,Singing,Public,Tertiary,Yes,No,Urban,Yes,High,Yes,6,68,4,2,9,3,4,2,0,0,1,High,60,65,68,64.3
+963ef5ce,Abubakar Mohammed,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,45,2,1,6,1,2,0,0,0,1,Low,38,40,45,41
+5fa1ce6a,Ibrahim Ali,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,45,2,1,6,1,2,0,0,0,1,Low,38,40,45,41
+350b7d15,Musa Bello,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,45,2,1,6,1,2,0,0,0,1,Low,38,40,45,41
+4635e904,Abubakar Yusuf,Male,Hausa,Islam,Kano,15,Playing football,Private,Secondary,Yes,No,Rural,No,Low,Yes,3,50,2,1,7,2,2,0,0,0,1,Low,42,45,50,45.7
+14a96230,Chinasa Ude,Female,Igbo,Christianity,Enugu,16,Reading books,Public,Tertiary,Yes,No,Urban,Yes,Medium,Yes,4,75,4,2,8,3,3,1,1,0,1,Low,65,68,72,68.3
+f5959edf,Abubakar Ibrahim,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,58,3,2,7,2,3,1,0,0,1,Low,52,55,58,55
+c86d54a1,Hassan Ibrahim,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,58,3,2,7,2,3,1,0,0,1,Low,52,55,58,55
+978c3258,Chioma Aliyu, Female, Igbo, Christianity, Imo,16, Singing, Public, Secondary, Yes, No, Urban, Yes, Medium, No,5,85,7,3,5,3,3,2,1,3,4, Medium,75,80,78,80.7
+6496993f,Abubakar Suleiman,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,48,2,1,6,1,2,0,0,0,1,Low,41,45,48,44.7
+ed430e2d,Chinwe Okoro,Female,Igbo,Christianity,Enugu,18,Painting,Public,Tertiary,Yes,Yes,Urban,Yes,High,Yes,5,80,5,2,9,3,4,2,2,0,1,High,72,75,78,75
+290e2aa5,Chinwendu Okoro,Female,Igbo,Christianity,Enugu,18,Singing,Public,Tertiary,Yes,Yes,Urban,Yes,High,Yes,5,80,5,2,9,3,4,2,2,0,1,High,72,75,78,75
+0f5ca180,Aisha Mohammed, Female, Hausa, Islam, Kano,16, Dancing, Public, Secondary, No, No, Urban, Yes, Medium, No,5,85,7,3,5,3,3,2,1,3,4, Medium,75,80,78,80.7
+52cc35c5,David Williams, Male, Yoruba, Christianity, Lagos,16, Playing football, Public, Secondary, Yes, No, Urban, Yes, Medium, No,5,90,7,4,6,4,3,2,1,3,5, High,85,78,92,87.3
+42ab486f,Abdullahi Suleiman,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,45,2,1,6,1,2,0,0,0,1,Low,38,40,45,41
+ad4fce4c,Maryam Abdullahi,Female,Hausa,Islam,Kano,16,Reading books,Public,Secondary,Yes,No,Rural,No,Low,Yes,3,54,3,2,7,2,3,1,0,0,1,Low,48,52,54,51.3
+d210b7fc,Sani Ahmed,Male,Fulani,Islam,Kano,17,Playing football,Public,Secondary,Yes,No,Suburban,Yes,Medium,Yes,4,50,3,1,7,2,3,1,0,0,1,Low,38,42,50,43.3
+493df37e,Ahmed Yusuf,Male,Hausa,Islam,Kano,18,Playing basketball,Private,Secondary,Yes,Yes,Suburban,Yes,High,Yes,6,80,5,2,9,4,4,2,2,0,1,High,68,70,75,71
+e4f8431f,Ngozi Ngozi, Female, Yoruba, Christianity, Osun,18, Playing the piano, Public, Tertiary, Yes, Yes, Rural, No, High, Yes,7,92,8,4,7,3,5,4,2,1,4, High,88,94,3,90
+a6fb82fb,Amaka Okonkwo,Female,Igbo,Christianity,Enugu,16,Dancing,Public,Secondary,Yes,No,Suburban,No,Medium,Yes,3,55,3,1,7,2,2,0,0,0,1,Low,48,50,55,51
+870a9e51,Ngozi Musa, Female, Yoruba, Christianity, Osun,18, Playing the piano, Public, Tertiary, Yes, Yes, Rural, No, High, Yes,7,92,8,4,7,3,5,4,2,1,4, High,88,94,89,90
+6d6a074b,Chiemeka Nwosu,Male,Igbo,Christianity,Enugu,17,Painting,Public,Secondary,Yes,Yes,Suburban,Yes,Medium,Yes,4,66,3,2,7,2,3,1,0,0,1,Low,59,62,66,62.3
+c2e8e517,Chidinma Onyekachi,Female,Igbo,Christianity,Enugu,18,Dancing,Public,Tertiary,Yes,No,Urban,Yes,Medium,Yes,4,73,4,2,8,3,3,1,1,0,1,Low,64,68,72,68.3
+6361144a,Abubakar Suleiman,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Medium,Yes,4,68,3,2,7,2,3,1,0,0,1,Low,55,58,63,58.7
+08f079f9,Chinwe Okoro,Female,Igbo,Christianity,Enugu,18,Painting,Public,Tertiary,Yes,Yes,Urban,Yes,High,Yes,5,80,5,2,9,3,4,2,2,0,1,High,72,75,78,75
+3fb8c6d9,Chidinma Nwosu,Female,Igbo,Christianity,Enugu,17,Singing,Public,Tertiary,Yes,Yes,Urban,Yes,High,Yes,5,80,5,2,9,3,4,2,2,0,1,High,72,75,78,75
+c636c405,Chukwudi Okoro,Male,Igbo,Christianity,Enugu,16,Playing basketball,Public,Secondary,Yes,Yes,Urban,Yes,Medium,Yes,4,65,3,2,8,2,3,1,1,0,1,Medium,55,58,65,59.3
+359e3929,Ahmed Yusuf,Male,Hausa,Islam,Kano,18,Playing basketball,Private,Secondary,Yes,Yes,Suburban,Yes,High,Yes,6,80,5,2,9,4,4,2,2,0,1,High,68,70,75,71
+ad9948f9,Chinelo Eze,Female,Igbo,Christianity,Enugu,16,Painting,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,62,3,2,7,2,3,1,0,0,1,Low,55,58,62,58.3
+d479ccf5,Chinweike Udo,Female,Igbo,Christianity,Enugu,16,Reading books,Public,Secondary,Yes,Yes,Urban,Yes,Medium,Yes,4,72,4,2,8,3,3,1,1,0,1,Low,60,62,67,63
+edaf9e76,Fatima Buhari,Female,Hausa,Islam,Kano,17,Singing,Public,Tertiary,Yes,Yes,Urban,Yes,Medium,Yes,5,55,3,1,7,2,3,1,0,0,1,Low,45,50,55,50
+91bfaf8b,Bamidele Adeyemi,Male,Yoruba,Christianity,Ogun,16,Playing basketball,Public,Secondary,No,Yes,Urban,Yes,Medium,Yes,4,55,3,2,8,2,3,1,0,0,1,Medium,45,48,55,49.3
+48a1ff3a,Chiamaka Okonkwo,Female,Igbo,Christianity,Enugu,18,Dancing,Public,Tertiary,Yes,No,Urban,Yes,Medium,Yes,4,75,4,2,8,3,3,1,1,0,1,Low,65,68,72,68.3
+e2b6c3cd,Ifunanya Eze,Female,Igbo,Christianity,Enugu,16,Dancing,Public,Secondary,Yes,No,Suburban,No,Medium,Yes,3,55,3,1,7,2,2,0,0,0,1,Low,48,50,55,51
+a20a5fa1,Sani Bello,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,45,2,1,6,1,2,0,0,0,1,Low,38,40,45,41
+c2c4642f,Chioma Musa, Female, Igbo, Christianity, Imo,16, Singing, Public, Secondary, Yes, No, Urban, Yes, Medium, No,5,85,7,3,5,3,3,2,1,3,4, Medium,75,80,78,80.7
+756f4f2f,Chioma Okonkwo,Female,Igbo,Christianity,Enugu,17,Dancing,Public,Secondary,No,No,Rural,No,Low,Yes,3,50,3,1,7,2,2,0,0,0,1,Low,40,45,50,45
+c36e82f1,Umar Sani,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,,3,2,7,2,3,1,0,0,1,Low,52,55,58,55
+3d26a710,Amaka Okonkwo,Female,Igbo,Christianity,Enugu,16,Dancing,Public,Secondary,Yes,No,Suburban,No,Medium,Yes,3,,3,1,7,2,2,0,0,0,1,Low,48,50,55,51
+7d4d1187,Fatima Hassan,Female,Hausa,Islam,Kano,18,Reading books,Public,Secondary,Yes,Yes,Urban,Yes,Low,No,3,42,3,1,6,1,2,0,0,0,1,Low,30,32,38,33.3
+fc4bd233,Umar Sani,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,45,2,1,6,1,2,0,0,0,1,Low,38,40,43,41
+577856d8,Aishatu Ali, Female, Hausa, Islam, Kaduna,15, Reading books, Private, Tertiary, Yes, No, Suburban, No, High, Yes,4,95,9,5,4,4,4,2,3,1,4, Medium,92,88,85,88.3
+3a753871,Chidinma Nwosu,Female,Igbo,Christianity,Enugu,17,Singing,Public,Tertiary,Yes,Yes,Urban,Yes,High,Yes,5,80,5,2,9,3,4,2,2,0,1,High,72,75,78,75
+d9d110a4,Chinyere Okonkwo,Female,Igbo,Christianity,Enugu,16,Singing,Public,Secondary,Yes,No,Suburban,No,Medium,Yes,3,55,3,1,7,2,2,0,0,0,1,Low,48,50,55,51
+deb20752,Adeola Ogundele,Male,Yoruba,Christianity,Ogun,17,Playing video games,Public,Secondary,Yes,No,Urban,No,Medium,No,6,85,7,4,6,3,3,2,3,1,3,Medium,78,84,80,82.7
+bd43673e,Usman Suleiman,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,58,3,2,7,2,3,1,0,0,1,Low,52,55,58,55
+3531fd60,Rahmatu Ibrahim,Female,Hausa,Islam,Kano,16,Reading books,Public,Secondary,Yes,No,Rural,No,Low,Yes,3,38,2,1,7,2,3,1,0,0,1,Low,28,32,38,32.7
+34873de2,Abdul Yusuf,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Medium,Yes,4,66,3,2,7,2,3,1,0,0,1,Low,59,62,66,62.3
+18083dda,Fatima Hassan,Female,Hausa,Islam,Kano,18,Reading books,Public,Secondary,Yes,Yes,Urban,Yes,Low,No,3,42,3,1,6,1,2,0,0,0,1,Low,30,32,38,33.3
+cb343221,Chinwe Okoro,Female,Igbo,Christianity,Enugu,16,Painting,Public,Secondary,Yes,Yes,Urban,Yes,Medium,Yes,4,68,3,2,7,2,3,1,0,0,1,Low,60,62,67,63
+1ff37199,Olumide Ajayi,Male,Yoruba,Christianity,Lagos,16,Playing football,Public,Secondary,Yes,Yes,Urban,Yes,Medium,Yes,4,70,4,2,8,3,3,1,1,0,1,Low,58,60,65,61
+09f6213c,Chinyere Okonkwo,Female,Igbo,Christianity,Enugu,16,Dancing,Public,Secondary,Yes,No,Suburban,No,Medium,Yes,3,55,3,1,7,2,2,0,0,0,1,Low,48,50,55,51
+5badc116,Ahmed Yusuf,Male,Hausa,Islam,Kano,18,Playing basketball,Private,Secondary,Yes,Yes,Suburban,Yes,High,Yes,6,80,5,2,9,4,4,2,2,0,1,High,68,70,75,71
+75c05abe,Eberechi Nwosu,Female,Igbo,Christianity,Imo,16,Sewing,Public,Secondary,No,No,Urban,Yes,Low,Yes,4,92,9,5,3,2,3,2,1,0,3,Low,75,82,80,79
+937ad02d,Mohammed Hassan,Male,Hausa,Islam,Kano,16,Playing guitar,Private,Tertiary,Yes,No,Urban,Yes,Medium,Yes,5,60,4,2,8,2,3,1,0,0,1,Low,50,52,55,52.3
+c6b84c80,Omar Ibrahim,Male,Fulani,Islam,Kano,16,Playing basketball,Public,Secondary,Yes,No,Urban,No,Low,No,4,75,6,4,7,2,3,1,0,0,2,Low,62,68,65,65
+cd157af6,Chinasa Ude,Female,Igbo,Christianity,Enugu,16,Reading books,Public,Tertiary,Yes,No,Urban,Yes,Medium,Yes,4,75,4,2,8,3,3,1,1,0,1,Low,65,68,72,68.3
+099155d6,Ahmed Yusuf,Male,Hausa,Islam,Kano,18,Playing football,Private,Secondary,Yes,Yes,Suburban,Yes,High,Yes,6,80,5,2,9,4,4,2,2,0,1,High,68,70,75,71
+aaab92d3,Usman Suleiman,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,45,2,1,6,1,2,0,0,0,1,Low,38,40,45,41
+bd4ae031,Fatimah Ali, Female, Hausa, Islam, Kaduna,18, Painting, Public, Tertiary, Yes, Yes, Rural, No, High, Yes,7,92,8,4,7,3,5,4,2,1,4, High,88,94,89,90
+a2f304c4,Aliyu Bello,Male,Fulani,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,,3,2,7,2,3,1,0,0,1,Low,52,55,58,55
+f460d1c8,Fatima Buhari,Female,Hausa,Islam,Kano,17,Singing,Public,Tertiary,Yes,Yes,Urban,Yes,Medium,Yes,5,55,3,1,7,2,3,1,0,0,1,Low,45,50,55,50
+ed4b98dc,Funmilayo Adewale,Female,Yoruba,Christianity,Lagos,15,Singing,Public,Secondary,Yes,No,Urban,Yes,Low,Yes,3,45,3,1,8,1,2,0,0,0,1,Low,30,38,434,34.3
+01649f3d,Chidinma Onyekachi,Female,Igbo,Christianity,Enugu,18,Dancing,Public,Tertiary,Yes,No,Urban,Yes,Medium,Yes,4,73,4,2,8,3,3,1,1,0,1,Low,64,68,72,68.3
+0be9fdb9,Abubakar Hassan,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Medium,Yes,4,68,3,2,7,2,3,1,0,0,1,Low,55,58,63,58.7
+b3bf7e4a,Usman Ibrahim,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,58,3,2,7,2,3,1,0,0,1,Low,52,55,58,55
+c209b23a,Chioma Okonkwo,Female,Igbo,Christianity,Enugu,17,Dancing,Public,Secondary,No,No,Rural,No,Low,Yes,3,,3,1,7,2,2,0,0,0,1,Low,40,45,50,45
+cd17a1d6,Musa Ibrahim,Male,Fulani,Islam,Kano,17,Playing basketball,Public,Secondary,Yes,No,Suburban,Yes,Medium,Yes,5,62,4,2,7,2,2,1,0,0,1,Low,48,50,52,50
+4586957a,Chioma Okoro,Female,Igbo,Christianity,Enugu,18,Painting,Public,Tertiary,Yes,Yes,Urban,Yes,High,Yes,5,80,5,2,9,3,4,2,2,0,1,High,72,75,78,75
+ed318f25,Chukwudi Nwosu,Male,Igbo,Christianity,Enugu,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Medium,Yes,4,66,3,2,7,2,3,1,0,0,1,Low,59,62,66,62.3
+57cab396,Chiamaka Eze,Female,Igbo,Christianity,Enugu,18,Dancing,Private,Secondary,Yes,No,Urban,Yes,High,Yes,5,82,5,2,9,4,4,2,2,0,1,High,75,78,80,77.7
+381fe441,Chinwe Okoro,Female,Igbo,Christianity,Enugu,16,Painting,Public,Secondary,Yes,Yes,Urban,Yes,Medium,Yes,4,68,3,2,7,2,3,1,0,0,1,Low,60,62,67,63
+6140715b,Chidimma Eze,Female,Igbo,Christianity,Enugu,17,Dancing,Public,Secondary,Yes,No,Suburban,Yes,Medium,Yes,4,67,3,2,7,2,3,1,0,0,1,Low,56,60,65,60.3
+26ed26fb,Yusuf Ibrahim,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,,3,2,7,2,3,1,0,0,1,Low,52,55,58,55
+716e1b61,Blessing Okonkwo,Female,Igbo,Christianity,Anambra,16,Music,Private,Tertiary,No,No,Urban,Yes,High,Yes,6,85,7,4,5,3,4,1,0,0,3,Medium,80,76,78,79.7
+8f59d0cf,Chidinma Okonkwo,Female,Igbo,Christianity,Enugu,18,Dancing,Public,Tertiary,Yes,No,Urban,Yes,High,Yes,5,80,5,2,9,3,4,2,2,0,1,High,72,75,78,75
+81f3102a,Amaka Okonkwo,Female,Igbo,Christianity,Enugu,16,Dancing,Public,Secondary,Yes,No,Suburban,No,Medium,Yes,3,55,3,1,7,2,2,0,0,0,1,Low,48,50,55,51
+ecd8b574,Adebisi Ojo,Female,Yoruba,Christianity,Oyo,15,Playing football,Public,Secondary,No,No,Suburban,No,High,Yes,7,70,5,2,6,3,4,2,0,0,1,High,60,65,62,62.3
+76e9ca93,Chiamaka Okafor,Female,Igbo,Christianity,Enugu,18,Painting,Public,Tertiary,Yes,No,Urban,Yes,Medium,Yes,4,75,4,2,8,3,3,1,1,0,1,Low,65,68,72,68.3
+1ef65eaf,Aisha Suleiman,Female,Hausa,Islam,Kano,16,Dancing,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,58,3,2,7,2,3,1,0,0,1,Low,52,55,58,55
+176c86a8,Abdullahi Ibrahim,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,45,2,1,6,1,2,0,0,0,1,Low,38,40,45,41
+6c636322,Sani Bello,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,45,2,1,6,1,2,0,0,0,1,Low,38,40,45,41
+7bb33c7b,Yakubu Ibrahim,Male,Fulani,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,62,3,2,7,2,3,1,0,0,1,Low,55,58,62,58.3
+d48e6fca,Aliyu Bello,Male,Hausa,Islam,Kano,17,Reading books,Private,Secondary,No,No,Urban,Yes,Low,No,4,60,3,2,9,1,3,1,0,0,1,Low,45,52,48,48.3
+6aa2e378,Chinweike Okoro,Female,Igbo,Christianity,Enugu,16,Reading books,Public,Secondary,Yes,Yes,Urban,Yes,Medium,Yes,4,72,4,2,8,3,3,1,1,0,1,Low,60,62,34,63
+0854d106,Bashiru Suleiman,Male,Hausa,Islam,Kano,17,Reading books,Public,Secondary,Yes,Yes,Suburban,Yes,Medium,Yes,4,68,3,2,7,2,3,1,0,0,1,Low,55,58,63,58.7
+d53aebc5,Amina Bello,Female,Hausa,Islam,Kano,17,Painting,Private,Tertiary,Yes,Yes,Urban,Yes,Medium,Yes,5,38,2,1,9,2,3,1,0,0,1,Low,32,35,38,35
+b2c3095e,Chioma Anya,Female,Igbo,Christianity,Abia,18,Dancing,Public,Tertiary,Yes,Yes,Rural,No,High,Yes,7,92,8,4,7,3,5,4,2,1,4,High,88,94,89,90.3
+aa130afa,Halima Bello,Female,Hausa,Islam,Kano,16,Singing,Public,Tertiary,No,No,Urban,Yes,Low,No,4,55,3,2,7,2,2,0,0,0,1,Low,42,48,55,48.3
+ea1df195,Abdullahi Suleiman,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,45,2,1,6,1,2,0,0,0,1,Low,38,40,45,41
+e1716ed2,Ngozi Aliyu, Female, Yoruba, Christianity, Osun,18, Playing the piano, Public, Tertiary, Yes, Yes, Rural, No, High, Yes,7,92,8,4,7,3,5,4,2,1,4, High,88,94,89,90
+0c60279e,Amaka Onyeka,Female,Igbo,Christianity,Enugu,15,Dancing,Public,Secondary,Yes,No,Suburban,No,Medium,Yes,3,55,3,1,7,2,2,0,0,0,1,Low,48,50,55,51
+88fa34e2,Nkechi Okonkwo,Female,Igbo,Christianity,Enugu,18,Painting,Public,Tertiary,Yes,Yes,Urban,Yes,High,Yes,5,80,5,2,9,3,4,2,2,0,1,High,72,75,78,75
+7515b1c1,Mariam Ahmed,Female,Hausa,Islam,Kano,17,Painting,Private,Tertiary,Yes,Yes,Urban,No,High,Yes,6,68,5,3,7,4,4,3,1,0,2,Medium,65,70,72,69
+42a3a3f5,Nkechi Okoro,Female,Igbo,Christianity,Enugu,18,Painting,Public,Tertiary,Yes,Yes,Urban,Yes,High,Yes,5,80,5,2,9,3,4,2,2,0,1,High,72,75,78,75
+e60a78a4,Chinwendu Nwosu,Female,Igbo,Christianity,Enugu,18,Singing,Public,Tertiary,Yes,Yes,Urban,Yes,High,Yes,5,80,5,2,9,3,4,2,2,0,1,High,72,75,78,75
+318ee0ed,Chidinma Onyekachi,Female,Igbo,Christianity,Enugu,18,Dancing,Public,Tertiary,Yes,No,Urban,Yes,Medium,Yes,4,73,4,2,8,3,3,1,1,0,1,Low,64,68,72,68.3
+73824b63,Usman Ibrahim,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,,3,2,7,2,3,1,0,0,1,Low,52,55,58,55
+2d4c4e98,Chidiebere Okonkwo,Female,Igbo,Christianity,Enugu,16,Dancing,Public,Secondary,Yes,No,Suburban,No,Medium,Yes,3,55,3,1,7,2,2,0,0,0,1,Low,48,50,55,51
+13670ee2,Amaka Onyeka,Female,Igbo,Christianity,Enugu,15,Dancing,Public,Secondary,Yes,No,Suburban,No,Medium,Yes,3,55,3,1,7,2,2,0,0,0,1,Low,48,50,55,51
+7872c659,Habiba Mohammed,Female,Hausa,Islam,Kano,16,Reading books,Public,Secondary,Yes,Yes,Suburban,Yes,Medium,Yes,4,68,3,2,7,2,3,1,0,0,1,Low,59,63,68,63.3
+c2d8a28d,Ibrahim Yusuf,Male,Fulani,Islam,Kano,15,Playing football,Public,Secondary,No,Yes,Suburban,Yes,Low,Yes,4,55,3,2,7,2,3,1,1,0,1,Low,48,50,55,51
+00a7bd86,Yusuf Ali,Male,Fulani,Islam,Kano,16,Playing basketball,Public,Secondary,Yes,No,Urban,Yes,Low,No,3,45,3,1,8,2,3,1,0,0,1,Low,32,35,45,37.3
+5241132f,Aisha Mohammed,Female,Hausa,Islam,Kano,18,Singing,Public,Tertiary,Yes,Yes,Urban,Yes,Medium,Yes,4,70,4,2,8,2,3,1,1,0,1,Low,58,60,68,62
+b54e0510,Ahmed Yusuf,Male,Hausa,Islam,Kano,18,Playing basketball,Private,Secondary,Yes,Yes,Suburban,Yes,High,Yes,6,80,5,2,9,4,4,2,2,0,1,High,68,70,75,71
+ab4443d1,Rashida Ahmed,Female,Hausa,Islam,Kano,15,Reading books,Public,Secondary,Yes,Yes,Suburban,Yes,Medium,Yes,4,68,3,2,7,2,3,1,0,0,1,Low,59,63,68,63.3
+e6f881c5,Maryam Abubakar,Female,Hausa,Islam,Kaduna,17,Singing,Private,Tertiary,Yes,Yes,Rural,No,High,Yes,7,88,8,4,7,3,5,4,2,1,4,High,82,90,34,85.7
+b019ee63,Chukwuma Musa, Male, Igbo, Christianity, Abia,17, Playing the guitar, Government, Secondary, Yes, No, Suburban, Yes, Low, Yes,6,75,6,2,7,2,3,1,1,0,3, Low,67,77,72,72.7
+65fb3af7,Fatima Suleiman,Female,Hausa,Islam,Kano,16,Dancing,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,58,3,2,7,2,3,1,0,0,1,Low,52,55,58,55
+343ee27c,Ibrahim Ahmed,Male,Fulani,Islam,Kano,17,Playing football,Private,Tertiary,Yes,No,Suburban,No,Low,No,4,35,2,1,8,1,2,1,0,0,1,Low,30,32,35,32.3
+82eed134,Chioma Nwoke, Female, Igbo, Christianity, Imo,16, Singing, Public, Secondary, Yes, No, Urban, Yes, Medium, No,5,85,7,3,5,3,3,2,1,3,4, Medium,75,80,78,80.7
+42502d47,Amina Yusuf,Female,Hausa,Islam,Kano,17,Playing tennis,Public,Secondary,Yes,No,Urban,Yes,Medium,Yes,6,80,7,3,7,4,4,2,1,0,3,Medium,78,80,75,77.7
+685b343c,Fatima Abdullahi,Female,Hausa,Islam,Kano,15,Singing,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,55,3,1,7,2,3,1,1,0,1,Low,48,50,55,51
+ef730782,Fatima Abubakar,Female,Hausa,Islam,Kano,16,Reading books,Private,Secondary,No,No,Urban,Yes,Low,No,4,60,3,2,9,1,3,1,0,0,1,Low,45,52,48,48.3
+5dda1a4f,Chidinma Eze,Female,Igbo,Christianity,Enugu,17,Dancing,Public,Secondary,Yes,No,Suburban,Yes,Medium,Yes,4,67,3,2,7,2,3,1,0,0,1,Low,56,60,65,60.3
+32388b9f,Chinweike Okonkwo,Female,Igbo,Christianity,Enugu,16,Painting,Public,Secondary,Yes,No,Suburban,No,Medium,Yes,3,55,3,1,7,2,2,0,0,0,1,Low,48,50,55,51
+20001bf6,Chinweike Okonkwo,Female,Igbo,Christianity,Enugu,16,Painting,Public,Secondary,Yes,No,Suburban,No,Medium,Yes,3,55,3,1,7,2,2,0,0,0,1,Low,48,50,55,51
+2bbb7c26,Amarachi Nwosu,Female,Igbo,Christianity,Enugu,18,Dancing,Private,Secondary,Yes,No,Urban,Yes,High,Yes,5,82,5,2,9,4,4,2,2,0,1,High,75,78,80,77.7
+c29b16fe,Usman Ibrahim,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,58,3,2,7,2,3,1,0,0,1,Low,52,55,58,55
+a57fbbb4,Mohammed Ali,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,58,3,2,7,2,3,1,0,0,1,Low,52,55,58,55
+bffaf963,Yusuf Ibrahim,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,58,3,2,7,2,3,1,0,0,1,Low,52,55,58,55
+505e3bc6,Ibrahim Ali, Male, Hausa, Islam, Kano,17, Playing basketball, Government, Secondary, No, No, Suburban, Yes, Low, Yes,6,80,6,3,8,2,3,1,1,0,3, Low,72,82,76,76.7
+508d6bd7,Chidimma Okoro,Female,Igbo,Christianity,Enugu,18,Dancing,Public,Tertiary,Yes,No,Urban,Yes,High,Yes,5,80,5,2,9,3,4,2,2,0,1,High,72,75,78,75
+9312fe77,Abdul Ibrahim,Male,Fulani,Islam,Kano,16,Playing basketball,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,65,3,2,7,2,3,1,1,0,1,Low,58,60,65,61
+a7266a84,Chinonso Nwosu,Female,Igbo,Christianity,Enugu,18,Singing,Public,Tertiary,Yes,Yes,Urban,Yes,High,Yes,5,80,5,2,9,3,4,2,2,0,1,High,72,75,78,75
+b330485d,Sarah Jones, Female, Igbo, Christianity, Enugu,15, Reading books, Private, Tertiary, Yes, No, Suburban, No, High, Yes,4,95,9,5,4,4,4,2,3,1,4, Medium,92,88,85,88.3
+b6d80958,Abubakar Ibrahim,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,58,3,2,7,2,3,1,0,0,1,Low,52,55,58,55
+8a7a6ced,Umaru Sani,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,45,2,1,6,1,2,0,0,0,1,Low,38,40,45,41
+0db2d011,Amina Ibrahim,Female,Hausa,Islam,Kano,15,Dancing,Public,Secondary,Yes,Yes,Suburban,Yes,Medium,Yes,4,68,3,2,7,2,3,1,0,0,1,Low,59,63,34,63.3
+36f3a683,Chinwe Okoro,Female,Igbo,Christianity,Enugu,18,Painting,Public,Tertiary,Yes,Yes,Urban,Yes,High,Yes,5,80,5,2,9,3,4,2,2,0,1,High,72,75,78,75
+2dc8d454,Umaru Sani, Male, Hausa, Islam, Kano,16, Playing football, Public, Secondary, No, No, Urban, Yes, Medium, No,5,90,7,4,6,4,3,2,1,3,5, High,85,78,92,87.3
+f1f6c9df,Abdul Yusuf,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Medium,Yes,4,66,3,2,7,2,3,1,0,0,1,Low,59,62,66,62.3
+8d3aa2bb,Yusuf Ibrahim,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,58,3,2,7,2,3,1,0,0,1,Low,52,55,58,55
+8fe3f7b9,Yusufu Aliyu,Male,Fulani,Islam,Kano,16,Playing football,Private,Secondary,Yes,No,Urban,Yes,Low,Yes,4,58,3,2,7,2,3,1,1,0,1,Low,52,55,58,55
+1cc407dc,Yakubu Ibrahim,Male,Fulani,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,,3,2,7,2,3,1,0,0,1,Low,55,58,62,58.3
+0512cac2,Yusuf Ahmed,Male,Fulani,Islam,Kano,16,Playing football,Private,Tertiary,No,Yes,Urban,Yes,Low,Yes,5,65,4,2,8,2,3,1,0,0,1,Low,52,55,58,55
+338040b9,Kabiru Mohammed,Male,Hausa,Islam,Kano,16,Playing basketball,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,65,3,2,7,2,3,1,1,0,1,Low,58,60,65,61
+28dafaa7,Chinweike Okoro,Female,Igbo,Christianity,Enugu,16,Painting,Public,Secondary,Yes,No,Suburban,No,Medium,Yes,3,55,3,1,7,2,2,0,0,0,1,Low,48,50,55,51
+41cc47f0,Yakubu Ibrahim,Male,Fulani,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,62,3,2,7,2,3,1,0,0,1,Low,55,58,62,58.3
+19b34e69,Chidinma Nwafor, Female, Igbo, Christianity, Imo,16, Singing, Public, Secondary, Yes, No, Urban, Yes, Medium, No,5,85,7,3,5,3,3,2,1,3,4, Medium,75,80,78,80.7
+c8f2c7e8,Usman Ibrahim,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,58,3,2,7,2,3,1,0,0,1,Low,52,55,58,55
+55565d56,Uchechi Onyeka,Female,Igbo,Christianity,Enugu,17,Painting,Public,Secondary,Yes,No,Urban,Yes,Low,Yes,3,38,2,1,8,1,2,0,0,0,1,Low,28,32,35,31.7
+66a34aa1,Uchechi Onyeka,Female,Igbo,Christianity,Enugu,17,Painting,Public,Secondary,Yes,No,Urban,Yes,Low,Yes,3,38,2,1,8,1,2,0,0,0,1,Low,28,32,35,31.7
+82dd833b,Chinelo Eze,Female,Igbo,Christianity,Enugu,16,Painting,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,62,3,2,7,2,3,1,0,0,1,Low,55,58,62,58.3
+f88f42c8,Jane Smith,Female,Igbo,Christianity,Enugu,15,Reading books,Private,Tertiary,Yes,No,Suburban,No,High,Yes,4,95,9,5,4,4,4,2,3,1,4,Medium,92,88,85,88.3
+cb29b809,Chinweike Okonkwo,Female,Igbo,Christianity,Enugu,16,Painting,Public,Secondary,Yes,No,Suburban,No,Medium,Yes,3,55,3,1,7,2,2,0,0,0,1,Low,48,50,55,51
+c37cbe4b,Amina Suleiman,Female,Hausa,Islam,Kano,16,Dancing,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,58,3,2,7,2,3,1,0,0,1,Low,52,55,58,55
+c86197c5,Chinelo Okonkwo,Female,Igbo,Christianity,Anambra,16,Dancing,Public,Secondary,No,No,Suburban,No,Low,No,2,35,2,1,7,1,1,0,0,0,1,Low,28,30,32,30
+8923ab87,Chinwendu Okoro,Female,Igbo,Christianity,Enugu,18,Singing,Public,Tertiary,Yes,Yes,Urban,Yes,High,Yes,5,80,5,2,9,3,4,2,2,0,1,High,72,75,78,75
+719077b1,Ahmadu Suleiman,Male,Fulani,Islam,Kano,18,Playing basketball,Public,Secondary,Yes,Yes,Suburban,No,Medium,Yes,4,42,4,1,8,2,3,1,0,0,1,Low,32,35,40,35.7
+c91741e3,Abubakar Bello,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Medium,Yes,4,68,3,2,7,2,3,1,0,0,1,Low,55,58,35,58.7
+fc35378a,Nneka Onyeka,Female,Igbo,Christianity,Imo,18,Dancing,Public,Secondary,Yes,Yes,Urban,No,Medium,Yes,6,58,3,2,7,2,3,1,0,0,1,Low,45,48,50,47.7
+9c2ae77f,Usman Suleiman,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,58,3,2,7,2,3,1,0,0,1,Low,52,55,58,55
+2936a397,Abdul Yusuf,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Medium,Yes,4,66,3,2,7,2,3,1,0,0,1,Low,59,62,66,62.3
+8f9efaf3,Chinwe Okoro,Female,Igbo,Christianity,Enugu,18,Painting,Public,Tertiary,Yes,Yes,Urban,Yes,High,Yes,5,80,5,2,9,3,4,2,2,0,1,High,72,75,78,75
+8d3af848,Chinwe Okoro,Female,Igbo,Christianity,Enugu,16,Painting,Public,Secondary,Yes,Yes,Urban,Yes,Medium,Yes,4,68,3,2,7,2,3,1,0,0,1,Low,60,62,67,63
+64731828,Chika Adekunle,Female,Yoruba,Christianity,Ogun,15,Singing,Public,Secondary,Yes,No,Suburban,Yes,High,Yes,5,42,3,1,6,3,3,2,0,0,1,Medium,35,38,42,38.3
+1dafa213,Kabiru Ali, Male, Hausa, Islam, Kano,16, Dancing, Public, Secondary, No, No, Urban, Yes, Medium, No,5,85,7,3,5,3,3,2,1,3,4, Medium,75,80,78,80.7
+92e22fb9,Chidinma Nwachukwu,Female,Igbo,Christianity,Enugu,17,Painting,Public,Secondary,Yes,Yes,Suburban,Yes,Medium,Yes,4,66,3,2,7,2,3,1,0,0,1,Low,59,62,66,62.3
+0e958f64,Nasiru Mohammed,Male,Hausa,Islam,Kano,16,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,40,3,1,7,2,3,1,0,0,1,Low,32,35,40,35.7
+929a224f,Ibrahim Musa, Male, Hausa, Islam, Kano,17, Playing basketball, Government, Secondary, No, No, Suburban, Yes, Low, Yes,6,80,6,3,8,2,3,1,1,0,3, Low,72,82,76,76.7
+276650ed,Chinyere Okonkwo,Female,Igbo,Christianity,Enugu,16,Singing,Public,Secondary,Yes,No,Suburban,No,Medium,Yes,3,55,3,1,7,2,2,0,0,0,1,Low,48,50,55,51
+5a205002,Musa Bello,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,45,2,1,6,1,2,0,0,0,1,Low,38,40,45,41
+0b27f614,Chinedu Okoro,Male,Igbo,Christianity,Abia,18,Photography,Private,Tertiary,Yes,Yes,Suburban,No,High,Yes,7,88,8,4,6,3,4,1,2,1,4,High,82,85,88,85
+3ffe8e34,Kabiru Musa, Male, Hausa, Islam, Kano,16, Dancing, Public, Secondary, No, No, Urban, Yes, Medium, No,5,85,7,3,5,3,3,2,1,3,4, Medium,75,80,78,80.7
+67a12364,Aminu Ali,Male,Fulani,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,High,Yes,5,55,3,2,8,3,3,2,0,0,1,Medium,45,50,52,49
+64ef0001,Chidimma Okonkwo,F,Igbo,Christianity,Enugu,18,Dancing,Public,Tertiary,Yes,No,Urban,Yes,High,Yes,5,80,5,2,9,3,4,2,2,0,1,High,72,75,78,75
+88aa1262,Abubakar Hassan,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Medium,Yes,4,68,3,2,7,2,3,1,0,0,1,Low,55,58,63,58.7
+3b0efa4c,Ngozi Obi,Female,Igbo,Christianity,Enugu,16,Reading books,Public,Secondary,Yes,Yes,Suburban,No,Medium,Yes,4,65,3,2,7,2,3,1,1,0,1,Low,58,60,65,61
+e23e72ca,Ibrahim Aliyu, Male, Hausa, Islam, Kano,16, Playing football, Public, Secondary, No, No, Urban, Yes, Medium, No,5,90,7,4,6,4,3,2,1,3,5, High,85,78,92,87.3
+f9047074,Abdul Ibrahim,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,45,2,1,6,1,2,0,0,0,1,Low,38,40,45,41
+43630949,Umaru Hassan,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,45,2,1,6,1,2,0,0,0,1,Low,35,38,45,39.3
+48902c37,Fatimah Umar, Female, Hausa, Islam, Kaduna,18, Painting, Public, Tertiary, Yes, Yes, Rural, No, High, Yes,7,92,8,4,7,3,5,4,2,1,4, High,88,94,54,90
+9c4b7bf0,Nafisat Ibrahim,Female,Hausa,Islam,Kano,15,Dancing,Public,Secondary,Yes,Yes,Suburban,Yes,Medium,Yes,4,68,3,2,7,2,3,1,0,0,1,Low,59,63,68,63.3
+38cdf69d,Ngozi Okeke, Female, Yoruba, Christianity, Osun,18, Playing the piano, Public, Tertiary, Yes, Yes, Rural, No, High, Yes,7,92,8,4,7,3,5,4,2,1,4, High,88,94,89,90
+6419966a,Abdul Yusuf,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Medium,Yes,4,66,3,2,7,2,3,1,0,0,1,Low,59,62,66,62.3
+f334a5af,Aminu Ibrahim,Male,Fulani,Islam,Kano,16,Playing football,Private,Secondary,No,No,Urban,Yes,Low,Yes,4,45,3,1,7,2,3,1,0,0,1,Low,32,35,38,35
+d272a20d,Usman Ibrahim,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,58,3,2,7,2,3,1,0,0,1,Low,52,55,58,55
+d45f372d,Ahmadu Suleiman,Male,Fulani,Islam,Kano,18,Playing basketball,Private,Secondary,Yes,Yes,Suburban,No,Medium,Yes,4,42,4,1,8,2,3,1,0,0,1,Low,32,35,40,35.7
+9f8eee44,Emeka Nwosu,Male,Igbo,Christianity,Enugu,17,Painting,Public,Secondary,Yes,Yes,Suburban,Yes,Medium,Yes,4,66,3,2,7,2,3,1,0,0,1,Low,59,62,66,62.3
+1e901eba,Chidinma Nwosu,Female,Igbo,Christianity,Enugu,17,Singing,Public,Tertiary,Yes,Yes,Urban,Yes,High,Yes,5,80,5,2,9,3,4,2,2,0,1,High,72,75,78,75
+f68dea5f,Abubakar Ibrahim,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,58,3,2,7,2,3,1,0,0,1,Low,52,55,58,55
+7.29E+22,Chinasa Ude,Female,Igbo,Christianity,Enugu,16,Reading books,Public,Tertiary,Yes,No,Urban,Yes,Medium,Yes,4,75,4,2,8,3,3,1,1,0,1,Low,65,68,72,68.3
+9ed52689,Umaru Sani,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,45,2,1,6,1,2,0,0,0,1,Low,38,40,45,41
+103a6f36,Chinyere Okonkwo,Female,Igbo,Christianity,Enugu,16,Dancing,Public,Secondary,Yes,No,Suburban,No,Medium,Yes,3,55,3,1,7,2,2,0,0,0,1,Low,48,50,55,51
+5be906d4,Chioma Okonkwo,F,Igbo,Christianity,Enugu,17,Dancing,Public,Secondary,No,No,Rural,No,Low,Yes,3,50,3,1,7,2,2,0,0,0,1,Low,40,45,50,45
+66998e5a,Ahmed Yusuf,Male,Hausa,Islam,Kano,18,Playing basketball,Private,Secondary,Yes,Yes,Suburban,Yes,High,Yes,6,80,5,2,9,4,4,2,2,0,1,High,68,70,75,71
+80452ba5,Abdullahi Mohammed,Male,Fulani,Islam,Kano,17,Swimming,Private,Tertiary,Yes,No,Urban,Yes,Low,Yes,4,40,3,1,6,2,3,1,0,0,1,Low,32,35,38,35
+d13570fb,Aliyu Bello,male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,No,Suburban,No,Low,No,3,40,3,1,9,1,2,0,0,0,1,Low,30,35,32,32.3
+9bc068d4,Aishatu Ali, Female, Hausa, Islam, Kaduna,15, Reading books, Private, Tertiary, Yes, No, Suburban, No, High, Yes,4,95,9,5,4,4,4,2,3,1,4, Medium,92,88,85,88.3
+d9d39e02,Sani Mohammed,Male,Hausa,Islam,Kano,16,Playing football,Private,Secondary,Yes,No,Rural,No,Low,Yes,3,52,2,1,6,1,2,0,0,0,1,Low,44,48,52,48
+6b78e24d,Chinweike Okoro,Female,Igbo,Christianity,Enugu,16,Reading books,Public,Secondary,Yes,Yes,Urban,Yes,Medium,Yes,4,72,4,2,8,3,3,1,1,0,1,Low,60,62,67,63
+81c580dd,Aliyu Ibrahim,Male,Fulani,Islam,Kano,17,Playing football,Private,Secondary,Yes,No,Suburban,No,Medium,Yes,5,78,6,3,7,3,3,1,0,0,2,Low,65,68,70,67.7
+255ddfa5,Ibrahim Umar, Male, Hausa, Islam, Kano,17, Playing basketball, Government, Secondary, No, No, Suburban, Yes, Low, Yes,6,80,6,3,8,2,3,1,1,0,3, Low,72,82,76,76.7
+b4fb63d2,Chinweike Okoro,Female,Igbo,Christianity,Enugu,16,Painting,Public,Secondary,Yes,No,Suburban,No,Medium,Yes,3,55,3,1,7,2,2,0,0,0,1,Low,48,50,545,51
+e90e6236,Chinasa Ude,Female,Igbo,Christianity,Enugu,16,Reading books,Public,Tertiary,Yes,No,Urban,Yes,Medium,Yes,4,75,4,2,8,3,3,1,1,0,1,Low,65,68,72,68.3
+6a3d6572,Chidinma Okonkwo,Female,Igbo,Christianity,Enugu,18,Dancing,Public,Tertiary,Yes,No,Urban,Yes,High,Yes,5,80,5,2,9,3,4,2,2,0,1,High,72,75,78,75
+6f943642,Musa Bello,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,45,2,1,6,1,2,0,0,0,1,Low,38,40,45,41
+8ae667d3,Amaka Onyeka,Female,Igbo,Christianity,Enugu,15,Dancing,Public,Secondary,Yes,No,Suburban,No,Medium,Yes,3,55,3,1,7,2,2,0,0,0,1,Low,48,50,55,51
+2eb023ca,Chidinma Eze,Female,Igbo,Christianity,Enugu,17,Dancing,Public,Secondary,Yes,No,Suburban,Yes,Medium,Yes,4,67,3,2,7,2,3,1,0,0,1,Low,56,60,65,60.3
+9e1324da,Abubakar Hassan,Male,Hausa,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Medium,Yes,4,68,3,2,7,2,3,1,0,0,1,Low,55,58,63,58.7
+09a8b330,Chukwudi Nwosu,Male,Igbo,Christianity,Enugu,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Medium,Yes,4,66,3,2,7,2,3,1,0,0,1,Low,59,62,66,62.3
+c70e4e17,Ibrahim Aliyu, Male, Hausa, Islam, Kano,16, Playing football, Public, Secondary, No, No, Urban, Yes, Medium, No,5,90,7,4,6,4,3,2,1,3,5, High,85,78,92,87.3
+a7f41c14,Abubakar Suleiman,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,48,2,1,6,1,2,0,0,0,1,Low,41,45,48,44.7
+f6ca0cc6,Adebayo Ojo, Male, Yoruba, Christianity, Oyo,17, Playing video games, Government, Secondary, Yes, No, Suburban, Yes, Low, Yes,6,75,6,2,7,2,3,1,1,0,3, Low,67,77,72,72.7
+9bcfd60e,Yusuf Ahmed,male,Hausa,Islam,Kano,16,Playing basketball,Private,Tertiary,Yes,Yes,Urban,Yes,High,Yes,6,75,4,2,9,4,4,2,2,0,1,High,68,70,75,71
+ce408351,Yakubu Ibrahim,Male,Fulani,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,62,3,2,7,2,3,1,0,0,1,Low,55,58,62,58.3
+32cda5bd,Abdul Ibrahim,male,Fulani,Islam,Kano,17,Playing football,Public,Secondary,Yes,Yes,Suburban,Yes,Low,Yes,4,60,3,2,8,2,3,1,1,0,1,Low,52,55,60,55.7
+e2cc1317,Sani Bello,Male,Hausa,Islam,Kano,16,Playing football,Private,Secondary,Yes,No,Rural,No,Low,Yes,3,52,2,1,6,1,2,0,0,0,1,Low,44,48,52,48
+4f67a050,Musa Ibrahim,Male,Fulani,Islam,Kano,17,Playing basketball,Public,Secondary,Yes,No,Suburban,Yes,Medium,Yes,5,62,4,2,7,2,2,1,0,0,1,Low,48,50,52,50
+9f7e9f5e,Chidiebere Okonkwo,Female,Igbo,Christianity,Enugu,16,Dancing,Public,Secondary,Yes,No,Suburban,No,Medium,Yes,3,55,3,1,7,2,2,0,0,0,1,Low,48,50,55,51
+c143537f,Fatima Bello,Female,Hausa,Islam,Kano,16,Painting,Private,Tertiary,Yes,Yes,Urban,Yes,Medium,No,4,38,2,1,9,2,3,1,0,0,1,Low,32,35,38,35
+15a2d889,Umaru Sani,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,45,2,1,6,1,2,0,0,0,1,Low,38,40,45,41
+94db5890,Ibrahim Musa, Male, Hausa, Islam, Kano,17, Playing basketball, Government, Secondary, No, No, Suburban, Yes, Low, Yes,6,80,6,3,8,2,3,1,1,0,3, Low,72,82,76,76.7
+6e818d9e,Esther Udo,Female,Ibibio,Christianity,Akwa Ibom,16,Playing volleyball,Public,Secondary,Yes,Yes,Urban,Yes,Medium,Yes,4,72,4,2,8,3,3,1,1,0,1,Low,60,62,67,63
+ddd28b0d,Sani Bello,male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,45,2,1,6,1,2,0,0,0,1,Low,38,40,45,41
+0e39a3ac,Zainab Lawal,Female,Hausa,Islam,Kano,15,Reading books,Public,Secondary,Yes,No,Suburban,Yes,Medium,Yes,4,52,3,1,7,2,3,1,0,0,1,Medium,42,45,45,46.3
+ec0ada7f,Chioma Okonkwo,Female,Igbo,Christianity,Enugu,18,Singing,Public,Tertiary,Yes,Yes,Urban,Yes,High,Yes,5,80,5,2,9,3,4,2,2,0,1,High,72,75,78,75
+f37cf3b7,Ngozi Okoro,Female,Igbo,Christianity,Enugu,16,Painting,Public,Secondary,No,No,Urban,Yes,Low,Yes,4,75,5,3,8,2,2,0,0,0,2,Low,60,62,58,60
+b1684389,Ahmed Yusuf,Male,Hausa,Islam,Kano,18,Playing basketball,Private,Secondary,Yes,Yes,Suburban,Yes,High,Yes,6,80,5,2,9,4,4,2,2,0,1,High,68,70,75,71
+a0ed593b,Lola Adeleke,Female,Yoruba,Christianity,Lagos,17,Singing,Public,Secondary,No,Yes,Urban,Yes,High,Yes,6,35,2,1,6,3,4,2,0,0,1,High,32,35,35,34
+b939e250,Aminu Ibrahim,Male,Fulani,Islam,Kano,16,Playing football,Private,Secondary,No,No,Urban,Yes,Low,Yes,4,45,3,1,7,2,3,1,0,0,1,Low,32,35,38,35
+b068753c,Chinwendu Okoro,Female,Igbo,Christianity,Enugu,18,Singing,Public,Tertiary,Yes,Yes,Urban,Yes,High,Yes,5,80,5,2,9,3,4,2,2,0,1,High,72,75,78,75
+c1bf1713,Musa Bello,Male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,45,2,1,6,1,2,0,0,0,1,Low,38,40,45,41
+677683fa,Abubakar Mohammed,male,Hausa,Islam,Kano,15,Playing football,Public,Secondary,No,No,Rural,No,Low,Yes,3,45,2,1,6,1,2,0,0,0,1,Low,38,40,45,41
+d694f416,Ahmadu Suleiman,Male,Fulani,Islam,Kano,18,Playing basketball,Public,Secondary,Yes,Yes,Suburban,No,Medium,Yes,4,42,4,1,8,2,3,1,0,0,1,Low,32,35,40,35.7
